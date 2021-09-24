@@ -1,0 +1,100 @@
+/* External css */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,700&display=swap');
+
+*{
+    font-family: 'Crimson Text', serif;
+}
+
+.media{
+   display: flex;
+   flex-direction:column;
+   align-items: center;
+   width: 45%;
+}
+
+.contact{
+    font-size: 60px;
+    /* display: inline-block; */
+    /* margin-top: 50px; */
+    /* margin-right: 50px; */
+    margin-bottom: 50px;
+    align-items: centers;
+    background-color:rgba(0, 0, 0, 0.555);
+}
+
+a{
+    color: white;
+    padding-right: 80px;
+}
+
+body{
+    background: url(osman-rana-dI9KhXi0ooE-unsplash.jpg) no-repeat;
+    background-size:cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 500px;
+    /* margin-right: 100px;  
+    margin-left: 100px; */
+    border-radius: 100px;
+    border: 15px solid black
+}
+
+h1 {
+    text-align: center;
+    font-size: 85px;
+    font-weight:500;
+    color: var(--warnawheat);
+    background-color:rgba(0, 0, 0, 0.555);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 50%;
+    width: 700%;
+    border: 15px solid gray;
+}
+
+:root{
+    --warnawheat : wheat;
+}
+
+h2{
+    text-align: center;
+    font-size: 55px;
+    line-height: 90px;
+    background-color:rgba(0, 0, 0, 0.555);
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 100%;
+    width: 300%;
+    border: 15px solid black;
+}
+
+table{
+    text-align: center;
+    font-size: 55px;
+    line-height: 90px;
+    background-color:rgba(0, 0, 0, 0.555);
+    color:white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 50%;
+    width: 75%;
+    border: 15px solid black;
+}
+
+ul{
+    text-align: center;
+    font-size: 55px;
+    line-height: 90px;
+    background-color:rgba(0, 0, 0, 0.555);
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 50%;
+    width: 100%;
+    border: 15px solid black;
+}
