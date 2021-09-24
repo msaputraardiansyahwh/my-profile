@@ -73,7 +73,7 @@ h2{
 
 table{
     text-align: center;
-/*     font-size: 30px; */
+    font-size: 30px;
     line-height: 90px;
     background-color:rgba(0, 0, 0, 0.555);
     color:white;
@@ -87,12 +87,11 @@ table{
 ul{
     text-align: center;
     font-size: 30px;
-    line-height: 90px;
+/*     line-height: 90px; */
     background-color:rgba(0, 0, 0, 0.555);
     color: white;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    max-width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
     width: 100%;
     border: 15px solid black;
 }
