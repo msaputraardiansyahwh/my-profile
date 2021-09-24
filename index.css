@@ -74,15 +74,15 @@ h2{
 
 table{
     text-align: center;
-    font-size: 30px;
+/*     font-size: 30px; */
     line-height: 90px;
     background-color:rgba(0, 0, 0, 0.555);
     color:white;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     max-width: 50%;
-    width: 50%;
-    border: 15px solid black;
+    width: 10%;
+    border: 10px solid black;
 }
 
 ul{
