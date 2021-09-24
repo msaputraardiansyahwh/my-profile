@@ -86,10 +86,10 @@ table{
     font-size: 30px;
     color: white;
     background-color:rgba(0, 0, 0, 0.555);
-    padding-top: 50px;
-    padding-bottom: 50px;
-    border: 15px solid black;
-    width: 250%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 11px solid black;
+    width: 200%;
 }
 
 ul{
