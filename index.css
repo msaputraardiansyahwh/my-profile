@@ -15,9 +15,9 @@
 .contact{
     font-size: 30px;
     display: inline-block; 
-/*     margin-top: 50px; 
+    margin-top: 50px; 
     margin-right: 50px; 
-    margin-bottom: 50px; */
+    margin-bottom: 50px;
     align-items: centers;
     background-color:rgba(0, 0, 0, 0.555);
 }
