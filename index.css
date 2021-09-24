@@ -50,7 +50,6 @@ h1 {
     background-color:rgba(0, 0, 0, 0.555);
     padding-top: 10px;
     padding-bottom: 10px;
-    max-width: 10%;
     width: 100%;
     border: 15px solid gray;
 }
@@ -68,7 +67,7 @@ h2{
     padding-top: 50px;
     padding-bottom: 50px;
     max-width: 100%;
-    width: 300%;
+    width: 100%;
     border: 15px solid black;
 }
 
